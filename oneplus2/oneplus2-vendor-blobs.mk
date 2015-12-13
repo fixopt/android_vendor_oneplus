@@ -113,6 +113,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/lib64/libopcameralib.so:/system/lib64/libopcameralib.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libparam.so:/system/lib64/libparam.so \
         vendor/oneplus/oneplus2/proprietary/lib64/librmnetctl.so:/system/lib64/librmnetctl.so \
+        vendor/oneplus/oneplus2/proprietary/lib64/libril.so:/system/lib64/libril.so \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/audioflacapp:/system/vendor/bin/audioflacapp \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/qti:/system/vendor/bin/qti \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/slim_ap_daemon:/system/vendor/bin/slim_ap_daemon \
